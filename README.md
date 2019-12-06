@@ -18,7 +18,7 @@ Use the OpenWeather API to retrieve weather data for cities. The documentation i
 Your app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 
-## Display the following under current weather conditions:
+## ~~Display the following under current weather conditions:
 
 
 City
